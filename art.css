@@ -47,9 +47,9 @@ p, div, a, span{
 .image1{
     display: block;
     margin:60px auto 0;
-    -webkit-box-shadow: 30px 0px 5px -3px rgba(50, 50, 50, 0.75);
-  -moz-box-shadow:    30px 0px 5px -3px rgba(50, 50, 50, 0.75);
-  box-shadow:         30px 0px 5px -3px rgba(50, 50, 50, 0.75);
+    -webkit-box-shadow: 30px 0 5px -3px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow:    30px 0 5px -3px rgba(50, 50, 50, 0.75);
+  box-shadow:         30px 0 5px -3px rgba(50, 50, 50, 0.75);
 }
 
 .title_main{
